@@ -35,7 +35,7 @@ A simple and efficient web app to create, store, and manage your personal notes,
 
 ```bash
 # Clone the repository
-
+https://github.com/aniruddhakakade10/NotesSaver.git
 cd pasteapp
 
 # Install dependencies
