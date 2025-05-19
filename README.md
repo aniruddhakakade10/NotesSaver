@@ -1,12 +1,44 @@
-# React + Vite
+# 📝 PasteApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient web app to create, store, and manage your personal notes, text, or code snippets — built using **React** and **Vite**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✍️ Create and save notes, texts, code, or any useful information
+- 📋 Copy notes to clipboard
+- 🧾 View and review saved content anytime
+- 🔁 Edit and update your notes
+- ❌ Delete notes you no longer need
+- 🔐 Data persistence (local or backend supported)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14+ recommended)
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repository
+
+cd pasteapp
+
+# Install dependencies
+npm install
+# or
+yarn install
