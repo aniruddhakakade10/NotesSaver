@@ -11,7 +11,7 @@ A simple and efficient web app to create, store, and manage your personal notes,
 - 🧾 View and review saved content anytime
 - 🔁 Edit and update your notes
 - ❌ Delete notes you no longer need
-- 🔐 Data persistence (local or backend supported)
+- 🔐 Data persistence (localStorage from browser)
 
 ---
 
